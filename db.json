@@ -1,9 +1,74 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "employees": [
+    {
+      "name": "John Doe",
+      "designation": "Sr UI Developer",
+      "team": "Team1",
+      "rating":"4",
+      "manager":"Manager 1",
+      "department": "Front End Development",
+      "roleType": "Full Time",
+      "experience": 10,
+      "yearOfJoinning": "2018",
+      "location": "Bangalore",
+      "phoneNumber": "1234567890",
+      "email": "john.doe@infrrd.com"
+    },
+    {
+      "name": "Max Markus",
+      "designation": "ML Engineer",
+      "team": "Team2",
+      "rating":"3.5",
+      "manager":"Manager 2",
+      "department": "ML Engineering",
+      "roleType": "Full Time",
+      "experience": 3,
+      "yearOfJoinning": "2021",
+      "location": "Bangalore",
+      "phoneNumber": "1234567890",
+      "email": "max.markus@infrrd.com"
+    },
+    {
+      "name": "Martin Lopez",
+      "designation": "Quality Analyst",
+      "team": "Team2",
+      "rating":"3",
+      "manager":"Manager 1",
+      "department": "Sr Test Engineer",
+      "roleType": "Part Time",
+      "experience": 3.4,
+      "yearOfJoinning": "2023",
+      "location": "US",
+      "phoneNumber": "1234567890",
+      "email": "martin.lopez@infrrd.com"
+    },
+    {
+      "name": "Miller Mic",
+      "designation": "Human Rresource Manager",
+      "team": "Team2",
+      "rating":"3.5",
+      "manager":"Manager 2",
+      "department": "Human Resource Management",
+      "roleType": "Full Time",
+      "experience": 5,
+      "yearOfJoinning": "2022",
+      "location": "Bangalore",
+      "phoneNumber": "1234567890",
+      "email": "miller.mic@infrrd.com"
+    },
+    {
+      "name": "Michel Doe",
+      "designation": "Full Stack Engineer",
+      "team": "Team2",
+      "rating":"3.5",
+      "manager":"Manager 1",
+      "department": "Research & Developement",
+      "roleType": "Full Time",
+      "experience": 6.8,
+      "yearOfJoinning": "2021",
+      "location": "US",
+      "phoneNumber": "1234567890",
+      "email": "michel.doekus@infrrd.com"
+    }
+  ]
 }
