@@ -4,8 +4,8 @@ A template to deploy [JSON Server](https://github.com/typicode/json-server) to [
 
 Demo from this repository: 
 
-1. https://json-server-in.vercel.app
-2. https://json-server-in.vercel.app/api/posts
+1. [https://json-server-in.vercel.app](https://my-json-server-sivaguru94.vercel.app/)
+2. [https://json-server-in.vercel.app/api/posts](https://my-json-server-sivaguru94.vercel.app/employees)
 
 ### How to use
 
@@ -34,4 +34,3 @@ Demo from this repository:
 
 1. https://github.com/typicode/json-server
 2. https://vercel.com
-3. https://shadowsmith.com/how-to-deploy-an-express-api-to-vercel
