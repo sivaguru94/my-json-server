@@ -1,5 +1,6 @@
 {
-    "employees": [
+    "employees":
+    [
         {
             "name": "John Doe",
             "designation": "Sr UI Developer",
@@ -71,10 +72,12 @@
             "email": "michel.doekus@infrrd.com"
         }
     ],
-    "quick-stats": {
+    "quick-stats":
+    {
         "agents": 4,
         "runs": 12,
-        "status": {
+        "status":
+        {
             "COMPLETED": 1,
             "ABORTED": 1,
             "RUNNING": 1,
@@ -82,19 +85,22 @@
             "STUCK": 1
         }
     },
-    "agents": [
+    "agents":
+    [
         {
             "agentId": "agent1",
             "agentName": "AgentOne",
             "triggerType": "MANUAL",
-            "status": {
+            "status":
+            {
                 "COMPLETED": 1,
                 "ABORTED": 1,
                 "RUNNING": 1,
                 "FAILED": 1,
                 "STUCK": 1
             },
-            "agentRuns": [
+            "agentRuns":
+            [
                 {
                     "runId": "run1",
                     "status": "RUNNING",
@@ -669,14 +675,16 @@
             "agentId": "agent2",
             "agentName": "AgentTwo",
             "triggerType": "AUTOMATED",
-            "status": {
+            "status":
+            {
                 "COMPLETED": 1,
                 "ABORTED": 1,
                 "RUNNING": 1,
                 "FAILED": 1,
                 "STUCK": 1
             },
-            "agentRuns": [
+            "agentRuns":
+            [
                 {
                     "runId": "run71",
                     "status": "RUNNING",
@@ -723,14 +731,16 @@
             "agentId": "agent3",
             "agentName": "AgentThree",
             "triggerType": "SCHEDULED",
-            "status": {
+            "status":
+            {
                 "COMPLETED": 1,
                 "ABORTED": 1,
                 "RUNNING": 1,
                 "FAILED": 1,
                 "STUCK": 1
             },
-            "agentRuns": [
+            "agentRuns":
+            [
                 {
                     "runId": "run74",
                     "status": "RUNNING",
@@ -761,14 +771,16 @@
             "agentId": "agent1",
             "agentName": "AgentOne",
             "triggerType": "MANUAL",
-            "status": {
+            "status":
+            {
                 "COMPLETED": 1,
                 "ABORTED": 1,
                 "RUNNING": 1,
                 "FAILED": 1,
                 "STUCK": 1
             },
-            "agentRuns": [
+            "agentRuns":
+            [
                 {
                     "runId": "run1",
                     "status": "RUNNING",
@@ -1343,14 +1355,16 @@
             "agentId": "agent2",
             "agentName": "AgentTwo",
             "triggerType": "AUTOMATED",
-            "status": {
+            "status":
+            {
                 "COMPLETED": 1,
                 "ABORTED": 1,
                 "RUNNING": 1,
                 "FAILED": 1,
                 "STUCK": 1
             },
-            "agentRuns": [
+            "agentRuns":
+            [
                 {
                     "runId": "run71",
                     "status": "RUNNING",
@@ -1381,14 +1395,16 @@
             "agentId": "agent3",
             "agentName": "AgentThree",
             "triggerType": "SCHEDULED",
-            "status": {
+            "status":
+            {
                 "COMPLETED": 1,
                 "ABORTED": 1,
                 "RUNNING": 1,
                 "FAILED": 1,
                 "STUCK": 1
             },
-            "agentRuns": [
+            "agentRuns":
+            [
                 {
                     "runId": "run74",
                     "status": "RUNNING",
@@ -1419,14 +1435,16 @@
             "agentId": "agent1",
             "agentName": "AgentOne",
             "triggerType": "MANUAL",
-            "status": {
+            "status":
+            {
                 "COMPLETED": 1,
                 "ABORTED": 1,
                 "RUNNING": 1,
                 "FAILED": 1,
                 "STUCK": 1
             },
-            "agentRuns": [
+            "agentRuns":
+            [
                 {
                     "runId": "run1",
                     "status": "RUNNING",
@@ -2001,14 +2019,16 @@
             "agentId": "agent2",
             "agentName": "AgentTwo",
             "triggerType": "AUTOMATED",
-            "status": {
+            "status":
+            {
                 "COMPLETED": 1,
                 "ABORTED": 1,
                 "RUNNING": 1,
                 "FAILED": 1,
                 "STUCK": 1
             },
-            "agentRuns": [
+            "agentRuns":
+            [
                 {
                     "runId": "run71",
                     "status": "RUNNING",
@@ -2039,14 +2059,16 @@
             "agentId": "agent3",
             "agentName": "AgentThree",
             "triggerType": "SCHEDULED",
-            "status": {
+            "status":
+            {
                 "COMPLETED": 1,
                 "ABORTED": 1,
                 "RUNNING": 1,
                 "FAILED": 1,
                 "STUCK": 1
             },
-            "agentRuns": [
+            "agentRuns":
+            [
                 {
                     "runId": "run74",
                     "status": "RUNNING",
@@ -2077,14 +2099,16 @@
             "agentId": "agent1",
             "agentName": "AgentOne",
             "triggerType": "MANUAL",
-            "status": {
+            "status":
+            {
                 "COMPLETED": 1,
                 "ABORTED": 1,
                 "RUNNING": 1,
                 "FAILED": 1,
                 "STUCK": 1
             },
-            "agentRuns": [
+            "agentRuns":
+            [
                 {
                     "runId": "run1",
                     "status": "RUNNING",
@@ -2659,14 +2683,16 @@
             "agentId": "agent2",
             "agentName": "AgentTwo",
             "triggerType": "AUTOMATED",
-            "status": {
+            "status":
+            {
                 "COMPLETED": 1,
                 "ABORTED": 1,
                 "RUNNING": 1,
                 "FAILED": 1,
                 "STUCK": 1
             },
-            "agentRuns": [
+            "agentRuns":
+            [
                 {
                     "runId": "run71",
                     "status": "RUNNING",
@@ -2697,14 +2723,16 @@
             "agentId": "agent3",
             "agentName": "AgentThree",
             "triggerType": "SCHEDULED",
-            "status": {
+            "status":
+            {
                 "COMPLETED": 1,
                 "ABORTED": 1,
                 "RUNNING": 1,
                 "FAILED": 1,
                 "STUCK": 1
             },
-            "agentRuns": [
+            "agentRuns":
+            [
                 {
                     "runId": "run74",
                     "status": "RUNNING",
@@ -2730,6 +2758,45 @@
                     "output": "more output data"
                 }
             ]
+        }
+    ],
+    "notifications":
+    [
+        {
+            "notificationId": "sample_notification_id",
+            "agentId": "sample_agent_id",
+            "runId": "sample_run_id",
+            "notificationTime": "2023-10-31T04:32:45.515+00:00"
+        },
+        {
+            "notificationId": "sample_notification_id",
+            "agentId": "sample_agent_id",
+            "runId": "sample_run_id",
+            "notificationTime": "2023-10-31T04:32:45.515+00:00"
+        },
+        {
+            "notificationId": "sample_notification_id",
+            "agentId": "sample_agent_id",
+            "runId": "sample_run_id",
+            "notificationTime": "2023-10-31T04:32:45.515+00:00"
+        },
+        {
+            "notificationId": "sample_notification_id",
+            "agentId": "sample_agent_id",
+            "runId": "sample_run_id",
+            "notificationTime": "2023-10-31T04:32:45.515+00:00"
+        },
+        {
+            "notificationId": "sample_notification_id",
+            "agentId": "sample_agent_id",
+            "runId": "sample_run_id",
+            "notificationTime": "2023-10-31T04:32:45.515+00:00"
+        },
+        {
+            "notificationId": "sample_notification_id",
+            "agentId": "sample_agent_id",
+            "runId": "sample_run_id",
+            "notificationTime": "2023-10-31T04:32:45.515+00:00"
         }
     ]
 }
