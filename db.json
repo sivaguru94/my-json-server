@@ -1,5 +1,5 @@
 {
-    "connectors:[
+    "connectors":[
         {
             "connectorId": "20b923d6-c7a8-4e6d-9919-72b32b1cdb29",
             "connectorName": "mail",
