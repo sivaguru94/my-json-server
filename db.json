@@ -1,4 +1,30 @@
 {
+    "connectors:[
+        {
+            "connectorId": "20b923d6-c7a8-4e6d-9919-72b32b1cdb29",
+            "connectorName": "mail",
+            "connectorType": "MAIL_CONNECTOR",
+            "modifiedOn": "2023-11-16T09:23:24.587+00:00"
+        },
+        {
+            "connectorId": "0c447377-8948-4593-8107-f20ce8b21f2c",
+            "connectorName": "api",
+            "connectorType": "API_CONNECTOR",
+            "modifiedOn": "2023-11-16T09:23:51.019+00:00"
+        },
+        {
+            "connectorId": "0c447377-8948-4593-8107-f20ce8b21f2b",
+            "connectorName": "slack",
+            "connectorType": "SLACK_CONNECTOR",
+            "modifiedOn": "2023-11-16T09:23:51.019+00:00"
+        },
+        {
+            "connectorId": "69565507-9af3-428a-a076-6cdfa3bd9c0c",
+            "connectorName": "g-drive",
+            "connectorType": "G_DRIVE_CONNECTOR",
+            "modifiedOn": "2023-11-16T09:24:46.768+00:00"
+        }
+    ],
     "employees":
     [
         {
