@@ -71,21 +71,19 @@
       "email": "michel.doekus@infrrd.com"
     }
   ],
-  "requests": [
-    {
-      "documents": [
-        {
-          "correctionUrl": "https://app.uat.infrrd.cloud/queues/bbef5922-b230-4282-8375-b5af0dd90ddb/documents/7e14f6cf-4696-455e-bc70-6b66ae421127_document-1/external?enableBIBot=true",
-          "docType": "johnson_&_johnson",
-          "id": "7e14f6cf-4696-455e-bc70-6b66ae421127_document-1",
-          "isDocSigned": false,
-          "name": "file1.pdf",
-          "status": "IN_PROGRESS",
-          "subStatus": "To be reviewed"
-        }
-      ],
-      "requestId": "7e14f6cf-4696-455e-bc70-6b66ae421127",
-      "status": "IN_PROGRESS"
-    }
-  ]
+  "requests": {
+    "documents": [
+      {
+        "correctionUrl": "https://app.uat.infrrd.cloud/queues/bbef5922-b230-4282-8375-b5af0dd90ddb/documents/7e14f6cf-4696-455e-bc70-6b66ae421127_document-1/external?enableBIBot=true",
+        "docType": "johnson_&_johnson",
+        "id": "7e14f6cf-4696-455e-bc70-6b66ae421127_document-1",
+        "isDocSigned": false,
+        "name": "file1.pdf",
+        "status": "IN_PROGRESS",
+        "subStatus": "To be reviewed"
+      }
+    ],
+    "requestId": "7e14f6cf-4696-455e-bc70-6b66ae421127",
+    "status": "IN_PROGRESS"
+  }
 }
